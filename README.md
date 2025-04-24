@@ -42,6 +42,7 @@ Part 3: Prediction and Visualization
 - Deploy the model using Flask or Streamlit
 - Add news sentiment data to improve accuracy
 
-🤝 Connect with Me
-GitHub: yuktinadhe
-LinkedIn: Yukti Nadhe
+## 🤝 Connect with Me
+- GitHub: yuktinadhe
+- LinkedIn: https://www.linkedin.com/in/yukti-nadhe-47342b21b/
+## Yukti Nadhe
