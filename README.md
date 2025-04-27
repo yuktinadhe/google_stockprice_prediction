@@ -45,4 +45,4 @@ Part 3: Prediction and Visualization
 ## 🤝 Connect with Me
 - GitHub: yuktinadhe
 - LinkedIn: https://www.linkedin.com/in/yukti-nadhe-47342b21b/
-## Yukti Nadhe
+## Yukti Nadhe.
